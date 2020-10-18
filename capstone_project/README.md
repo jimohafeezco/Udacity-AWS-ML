@@ -6,10 +6,10 @@ jupyter notebook
 ## Requirements
 Jupyter notebook must be installed. Python must be installed. The following python modules must be installed.
 
-opencv-python
-jupyter
-matplotlib
-pandas
+opencv-python__
+jupyter__
+matplotlib__
+pandas__
 numpy
 pillow
 scipy
