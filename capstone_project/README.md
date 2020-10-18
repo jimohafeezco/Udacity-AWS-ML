@@ -26,3 +26,10 @@ ipykernel
 bokeh
 pickleshare
 ```
+## Images
+![alt text](https://github.com/jimohafeezco/Udacity-AWS-ML/blob/master/capstone_project/media/human_grid.jpg)
+![alt text](https://github.com/jimohafeezco/Udacity-AWS-ML/blob/master/capstone_project/media/dog_grid.jpg)
+
+## Result
+
+![alt text](https://github.com/jimohafeezco/Udacity-AWS-ML/blob/master/capstone_project/media/result.jpg)
